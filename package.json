@@ -1,5 +1,5 @@
 {
-  "name" : "Before I die network",
+  "name" : "before I die",
   "version" : "0.0.1",
   "dependencies" : {
     "express" : "3.x"
@@ -8,6 +8,4 @@
     "node": "0.10.26",
     "npm": "1.1.x"
   }
-  
-  
 }
